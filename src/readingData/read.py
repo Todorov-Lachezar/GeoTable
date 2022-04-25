@@ -74,7 +74,7 @@ class reading():
 
     def getDictionary():
         #PDF file
-        file = "src\\readingData\\COVID_Data_2.pdf"
+        file = "src\\readingData\\PDFs\\COVID_Data_2.pdf"
 
         #get the table data
         tableData = reading.getTable(file)
